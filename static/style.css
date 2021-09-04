@@ -1,0 +1,13 @@
+html,body{margin: 0;padding: 0;}
+a,a:visited{text-decoration: none; color: rgb(0, 0, 0);}
+a.nuxt-link-exact-active{
+    color:rgb(255, 62, 62);
+}
+
+a:hover{
+    color: rgb(240, 0, 0);
+    transition: 0.3s;
+}
+h2{
+    font-size: 90px;
+}
